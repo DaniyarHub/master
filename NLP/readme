@@ -1,1 +1,6 @@
 #NLP (Natural Language Processing)
+0) Some sample input data in "Sample_Input"
+1) You have to open "Cleaning" file it saves in JSON format in "Sample_Output"
+2) Vectorization process is in "Vectorization" file. It saves matrices in pickle format in "Sample_Matrices"
+3) Finally we build our model with machine learning classification. It is still in process coz I compare Random_forest, 
+SVM and Neural networks. Then I want to apply XGBoost to my model 
