@@ -5,3 +5,4 @@
 3) Finally we build our model with machine learning classification. It is still in process coz I compare Random_forest, 
 SVM and Neural networks. Then I want to apply XGBoost to my model 
   3.1) Firstly I build model with SVM. To choose best parameters I used GridSearch.
+  3.2) Builded model with Random Forest. Got good accuracy 82%.
